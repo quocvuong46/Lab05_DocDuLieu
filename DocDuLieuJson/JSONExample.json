@@ -1,0 +1,19 @@
+{
+  "sinhvien": [
+    {
+      "mssv": "1234",
+      "hoten": "Do Quoc Vuong",
+      "tuoi": "20",
+      "diem": 8.5,
+      "tongiao": false
+    },
+    {
+      "mssv": "5678",
+      "hoten": "Nguyen Thi Luat",
+      "tuoi": "20",
+      "diem": 8.5,
+      "tongiao": true
+    }
+  ]
+
+}
